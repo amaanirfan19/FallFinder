@@ -1,5 +1,3 @@
 # wallet-detection-yolov5
 
-
-https://github.com/amaanirfan19/FallFinder/assets/52991990/7d6a53c2-392e-434a-855d-676847278fde
-
+![dropped-wallet (1)](https://github.com/amaanirfan19/FallFinder/assets/52991990/6cf6c480-0904-4a62-aa81-cc58a6ea54f6)
