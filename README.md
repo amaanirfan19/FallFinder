@@ -19,6 +19,13 @@ Speed: 3.2ms preprocess, 3.6ms inference, 0.0ms loss, 2.1ms postprocess per imag
 Results saved to runs/detect/train
 ```
 
+
+##Prediction on validation batch
+![val_batch1_labels](https://github.com/amaanirfan19/FallFinder/assets/52991990/5a3d9a93-0fff-482f-8088-836d40763b22)
+
+
+
+
 ## Below are some videos predicted by the model on unseen data!
 ![dropped-wallet](https://github.com/amaanirfan19/FallFinder/assets/52991990/03133e8e-0ca5-4201-ba46-a33343a1dafd)
 
