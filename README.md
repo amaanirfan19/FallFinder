@@ -14,7 +14,7 @@ Speed: 3.2ms preprocess, 3.6ms inference, 0.0ms loss, 2.1ms postprocess per imag
 Results saved to runs/detect/train
 ```
 
-## Below are some videos that the model has never seen before!
+## Below are some videos predicted by the model on unseen data!
 ![dropped-wallet](https://github.com/amaanirfan19/FallFinder/assets/52991990/03133e8e-0ca5-4201-ba46-a33343a1dafd)
 
 
