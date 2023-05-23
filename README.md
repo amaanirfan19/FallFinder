@@ -1,5 +1,9 @@
 # wallet-detection-yolov8
 
+- Trained over 500 images collected from Roboflow Universe as well as webscraping to increase diversity
+- Applied various data augmentation methods to increase dataset size to over 1.5k.
+
+
 Training output:
 ```250 epochs completed in 2.870 hours.
 Optimizer stripped from runs/detect/train/weights/last.pt, 6.2MB
