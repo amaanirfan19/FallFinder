@@ -2,6 +2,7 @@
 
 - Trained over 500 images collected from Roboflow Universe as well as webscraping to increase diversity
 - Applied various data augmentation methods to increase dataset size to over 1.5k.
+- Used google colab's free GPU to speed up running time by 10x
 
 
 Training output:
